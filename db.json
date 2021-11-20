@@ -6,7 +6,7 @@
             "name": "0N1 Force",
             "slug": "0n1-force",
             "image_url": "https:\/\/lh3.googleusercontent.com\/7gOej3SUvqALR-qkqL_ApAt97SpUKQOZQe88p8jPjeiDDcqITesbAdsLcWlsIg8oh7SRrTpUPfPlm12lb4xDahgP2h32pQQYCsuOM_s=s120",
-            "sub_group_name": 0,
+            "sub_group_name": null,
             "data": [
                 {
                     "id": 308478,
@@ -30,7 +30,7 @@
             "name": "24px",
             "slug": "24px",
             "image_url": "https:\/\/lh3.googleusercontent.com\/l_feLj_AM-KPJSGeoYfyPoRlCBpHJy6uwKTDHfeF7MQ5M-Irnx9IFSP6Nykh8HHfElMt5VdCd9-Da0Q_i_Uk-C0x5S2hB_SFl0xv=s120",
-            "sub_group_name": 0,
+            "sub_group_name": null,
             "data": [
                 {
                     "id": 308480,
@@ -54,7 +54,7 @@
             "name": "Abstract of the Day",
             "slug": "abstract-of-the-day",
             "image_url": "https:\/\/lh3.googleusercontent.com\/FN9XjPXHTokfWq5JuONkBXB6m2tbKCveqiOaHJRgZvi2Kqx9YscQ_u75oG8TlHVx_QccLqqUCxRn-mnM-_mPFr2e5_IhP2Hvq1g03A=s120",
-            "sub_group_name": 0,
+            "sub_group_name": null,
             "data": [
                 {
                     "id": 308479,
@@ -78,7 +78,7 @@
             "name": "Adam Bomb Squad",
             "slug": "adam-bomb-squad",
             "image_url": "https:\/\/lh3.googleusercontent.com\/AFLfluhz2BbvfAUDmTdZzZKvF-wETqzYFZUefPJIw9tO9uXiqftaznKxpgUobXFQqpmG5n2tgAvjbSycubZZ7E89D4K8QbzIFtGWCkY=s120",
-            "sub_group_name": 0,
+            "sub_group_name": null,
             "data": [
                 {
                     "id": 308481,
@@ -102,7 +102,7 @@
             "name": "Animetas",
             "slug": "animetas",
             "image_url": "https:\/\/lh3.googleusercontent.com\/Cc3FG95r-fF8YJVYJ3OkTFCE8jLIY5yECF0Tlum7DckaYC2ZA8hKvm_eD3siPrQS8LoYpUccjbnYCXm_Cj7myBgeAbUwCnJ5XSGf7Ws=s120",
-            "sub_group_name": 0,
+            "sub_group_name": null,
             "data": [
                 {
                     "id": 308482,
@@ -126,7 +126,7 @@
             "name": "Art Blocks Factory",
             "slug": "art-blocks-factory",
             "image_url": "https:\/\/lh3.googleusercontent.com\/GwnosrkaneKGEkWySxvTSzZ5bEUjWkRuQzLSNfrpgy2-gxYjoR3m5PohLT9Fzy0p1tohajZ1g-LFfF_ZLnS1GqlPNHPUaKUbDhbf=s120",
-            "sub_group_name": 0,
+            "sub_group_name": null,
             "data": [
                 {
                     "id": 308483,
@@ -154,12 +154,12 @@
             "data": [
                 {
                     "id": 243550,
-                    "owners_count": 0,
+                    "owners_count": null,
                     "total_supply": 64,
                     "listing": 0,
                     "floor_price": 0,
                     "one_day_volume": 0,
-                    "total_volume": 0,
+                    "total_volume": null,
                     "floor_change": 0,
                     "volume_change": 0,
                     "collection_id": 84,
@@ -178,12 +178,12 @@
             "data": [
                 {
                     "id": 308484,
-                    "owners_count": 0,
+                    "owners_count": null,
                     "total_supply": 256,
                     "listing": 43,
                     "floor_price": 0.88,
                     "one_day_volume": 0,
-                    "total_volume": 0,
+                    "total_volume": null,
                     "floor_change": -1.00822,
                     "volume_change": 0,
                     "collection_id": 85,
@@ -202,12 +202,12 @@
             "data": [
                 {
                     "id": 308485,
-                    "owners_count": 0,
+                    "owners_count": null,
                     "total_supply": 256,
                     "listing": 44,
                     "floor_price": 0.666,
                     "one_day_volume": 0,
-                    "total_volume": 0,
+                    "total_volume": null,
                     "floor_change": -1.00608,
                     "volume_change": 0,
                     "collection_id": 86,
@@ -226,12 +226,12 @@
             "data": [
                 {
                     "id": 216291,
-                    "owners_count": 0,
+                    "owners_count": null,
                     "total_supply": 64,
                     "listing": 0,
                     "floor_price": 0,
                     "one_day_volume": 0,
-                    "total_volume": 0,
+                    "total_volume": null,
                     "floor_change": 0,
                     "volume_change": 0,
                     "collection_id": 87,
@@ -250,12 +250,12 @@
             "data": [
                 {
                     "id": 308486,
-                    "owners_count": 0,
+                    "owners_count": null,
                     "total_supply": 256,
                     "listing": 67,
                     "floor_price": 0.33,
                     "one_day_volume": 0,
-                    "total_volume": 0,
+                    "total_volume": null,
                     "floor_change": -1.00272,
                     "volume_change": 0,
                     "collection_id": 88,
@@ -274,12 +274,12 @@
             "data": [
                 {
                     "id": 308487,
-                    "owners_count": 0,
+                    "owners_count": null,
                     "total_supply": 222,
                     "listing": 51,
                     "floor_price": 0.3,
                     "one_day_volume": 0,
-                    "total_volume": 0,
+                    "total_volume": null,
                     "floor_change": -1.00242,
                     "volume_change": 0,
                     "collection_id": 89,
@@ -298,12 +298,12 @@
             "data": [
                 {
                     "id": 308488,
-                    "owners_count": 0,
+                    "owners_count": null,
                     "total_supply": 250,
                     "listing": 56,
                     "floor_price": 0.2673,
                     "one_day_volume": 0,
-                    "total_volume": 0,
+                    "total_volume": null,
                     "floor_change": -1.002093,
                     "volume_change": 0,
                     "collection_id": 90,
@@ -322,12 +322,12 @@
             "data": [
                 {
                     "id": 308489,
-                    "owners_count": 0,
+                    "owners_count": null,
                     "total_supply": 100,
                     "listing": 23,
                     "floor_price": 2.3,
                     "one_day_volume": 0,
-                    "total_volume": 0,
+                    "total_volume": null,
                     "floor_change": -1.01842,
                     "volume_change": 0,
                     "collection_id": 91,
@@ -346,12 +346,12 @@
             "data": [
                 {
                     "id": 308490,
-                    "owners_count": 0,
+                    "owners_count": null,
                     "total_supply": 275,
                     "listing": 54,
                     "floor_price": 0.14,
                     "one_day_volume": 0,
-                    "total_volume": 0,
+                    "total_volume": null,
                     "floor_change": -1.00082,
                     "volume_change": 0,
                     "collection_id": 92,
